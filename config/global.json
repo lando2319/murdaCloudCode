@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "murdaCloudCode"
+        }, 
+        "murdaCloudCode": {
+            "applicationId": "XpAIVzFbiZD9h17MOJ6JM3St5codH7GlST0cHp5l", 
+            "masterKey": "qNPKbB63KLki6GJK9alYguLiKpMpPohryHU9ANoZ"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.5"
+    }
+}
